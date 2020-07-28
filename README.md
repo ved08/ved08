@@ -1,4 +1,4 @@
-### Hi there 👋 I am Vedvardhan Gyanmote
+### Hi there 👋 I am Vedvardhan Gyanmote💻
 I'm a frontend dev and a student at <a href="https://picket.kvs.ac.in/">Kendriya Vidyalaya Picket</a>. I am currently learning <a href="reactjs.org">React</a>.
 ### How to reach me:
 You can contact me via email <a>vedvardhan.g@gmail.com</a>
