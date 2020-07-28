@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Vedvardhan Gyanmote💻
 I'm a frontend dev and a student at <a href="https://picket.kvs.ac.in/">Kendriya Vidyalaya Picket</a>. I am currently learning <a href="reactjs.org">React</a>.
-### How to reach me:
+### How to reach me 📧
 You can contact me via email <a>vedvardhan.g@gmail.com</a>
+I'm also active in discord. You can DM me @ved#1930
 <!--
 **ved08/ved08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
