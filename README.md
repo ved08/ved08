@@ -1,5 +1,6 @@
 # Hi there 👋 I am Vedvardhan Gyanmote💻
 
+![](https://komarev.com/ghpvc/?username=ved08&color=red&style=flat-square&label=Viewers)
 
 ![Vedvardhan's github stats](https://github-readme-stats.vercel.app/api?username=ved08&show_icons=true)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ved08&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=ffffff)](https://github.com/ved08/)
