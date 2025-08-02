@@ -1,6 +1,7 @@
 # Hi there 👋 I am Vedvardhan Gyanmote💻
 
-![Vedvardhan's github stats](https://github-readme-stats.vercel.app/api?username=ved08&show_icons=true)<br><br>
+![ved08's Stats](https://github-readme-stats.vercel.app/api?username=ved08&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br><br>
+![ved08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ved08&theme=vue-dark&hide_border=true)
 <!--
 **ved08/ved08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
